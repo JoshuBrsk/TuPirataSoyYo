@@ -1,2 +1,2 @@
 FRONTEND
-Tecnología frontend propuesta: React p
+Tecnología frontend propuesta: React po
